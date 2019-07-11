@@ -16,11 +16,11 @@
 title: Sreshta Labs 
 email: sreshtalabs@gmail.com
 description: "Passion for computing"
-baseurl: "/"
+baseurl: ""
 url: "http://sreshtalabs.github.io" 
-#twitter_username:sreshtalabs
-github_username:sreshtalabs
-highlighter:rouge
+twitter_username: sreshtalabs
+github_username: sreshtalabs
+highlighter: rouge
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
