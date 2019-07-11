@@ -18,7 +18,7 @@ email: sreshtalabs@gmail.com
 description: "Passion for computing"
 baseurl: "/"
 url: "http://sreshtalabs.github.io" 
-twitter_username:sreshtalabs
+#twitter_username:sreshtalabs
 github_username:sreshtalabs
 highlighter:rouge
 # Build settings
