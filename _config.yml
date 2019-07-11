@@ -21,7 +21,8 @@ description: "Passion for computing"
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 baseurl: "sreshtalabs.github.io" # the subpath of your site, e.g. /blog
-url: "http://sreshtalabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sreshtalabs.github.io" 
+# the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:sreshtalabs
 github_username:sreshtalabs
 highlighter:rouge
