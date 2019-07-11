@@ -24,7 +24,7 @@ baseurl: "sreshtalabs.github.io" # the subpath of your site, e.g. /blog
 url: "http://sreshtalabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:sreshtalabs
 github_username:sreshtalabs
-
+highlighter:rouge
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
